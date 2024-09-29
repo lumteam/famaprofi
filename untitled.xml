@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hiblock>
+	<hiblock>
+		<id>3</id>
+		<name>AsproNextColorReference</name>
+		<table_name>next_color_reference</table_name>
+	</hiblock>
+	<langs>
+	</langs>
+	<fields>
+		<field>
+			<id>33</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_NAME</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id>UF_COLOR_NAME</xml_id>
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>Y</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Название</en>
+				<ru>Название</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Название</en>
+				<ru>Название</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Название</en>
+				<ru>Название</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>34</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_SORT</field_name>
+			<user_type_id>double</user_type_id>
+			<xml_id>UF_COLOR_SORT</xml_id>
+			<sort>200</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<precision>0</precision>
+				<size>20</size>
+				<min_value>0</min_value>
+				<max_value>0</max_value>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Сортировка</en>
+				<ru>Сортировка</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Сортировка</en>
+				<ru>Сортировка</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Сортировка</en>
+				<ru>Сортировка</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>double</base_type>
+		</field>
+		<field>
+			<id>35</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_XML_ID</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id>UF_XML_ID</xml_id>
+			<sort>300</sort>
+			<multiple>N</multiple>
+			<mandatory>Y</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>XML_ID</en>
+				<ru>XML_ID</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>XML_ID</en>
+				<ru>XML_ID</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>XML_ID</en>
+				<ru>XML_ID</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>36</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_LINK</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id>UF_COLOR_LINK</xml_id>
+			<sort>400</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Ссылка</en>
+				<ru>Ссылка</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Ссылка</en>
+				<ru>Ссылка</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Ссылка</en>
+				<ru>Ссылка</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>37</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_DESCRIPTION</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id>UF_COLOR_DESCRIPTION</xml_id>
+			<sort>500</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Описание</en>
+				<ru>Описание</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Описание</en>
+				<ru>Описание</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Описание</en>
+				<ru>Описание</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>38</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_FULL_DESCRIPTION</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id>UF_COLOR_FULL_DESCRIPTION</xml_id>
+			<sort>600</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Полное описание</en>
+				<ru>Полное описание</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Полное описание</en>
+				<ru>Полное описание</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Полное описание</en>
+				<ru>Полное описание</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>39</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_DEF</field_name>
+			<user_type_id>boolean</user_type_id>
+			<xml_id>UF_COLOR_DEF</xml_id>
+			<sort>700</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<default_value>0</default_value>
+				<display>CHECKBOX</display>
+				<label>
+					<0 />
+					<1 />
+				</label>
+				<label_checkbox />
+			</settings>
+			<edit_form_label>
+				<en>По умолчанию</en>
+				<ru>По умолчанию</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>По умолчанию</en>
+				<ru>По умолчанию</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>По умолчанию</en>
+				<ru>По умолчанию</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>int</base_type>
+		</field>
+		<field>
+			<id>40</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_FILE</field_name>
+			<user_type_id>file</user_type_id>
+			<xml_id>UF_COLOR_FILE</xml_id>
+			<sort>800</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<list_width>0</list_width>
+				<list_height>0</list_height>
+				<max_show_size>0</max_show_size>
+				<max_allowed_size>0</max_allowed_size>
+				<extensions />
+			</settings>
+			<edit_form_label>
+				<en>Файл</en>
+				<ru>Файл</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Файл</en>
+				<ru>Файл</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Файл</en>
+				<ru>Файл</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>file</base_type>
+		</field>
+	</fields>
+	<items>
+		<item>
+			<id>203</id>
+			<uf_name> 1001 Сосна натуральная</uf_name>
+			<uf_sort>1</uf_sort>
+			<uf_xml_id> 1001</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/67c/67c2f0ac2f9ae1835dc4128bf225de5b.jpg</uf_file>
+		</item>
+		<item>
+			<id>204</id>
+			<uf_name>1002 Золотистый</uf_name>
+			<uf_sort>2</uf_sort>
+			<uf_xml_id>1002</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/cdf/cdfaeef361eaad2cfa06c447f7b3996f.jpg</uf_file>
+		</item>
+		<item>
+			<id>205</id>
+			<uf_name>1003 Золотистый тик</uf_name>
+			<uf_sort>3</uf_sort>
+			<uf_xml_id>1003</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/2b7/2b706691f751eebaaa613973abeea1d5.jpg</uf_file>
+		</item>
+		<item>
+			<id>206</id>
+			<uf_name>1004 Голдахор</uf_name>
+			<uf_sort>4</uf_sort>
+			<uf_xml_id>1004</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/436/4362775b25272a32d87f02e051d8e5f0.jpg</uf_file>
+		</item>
+		<item>
+			<id>207</id>
+			<uf_name>1005 Белый</uf_name>
+			<uf_sort>5</uf_sort>
+			<uf_xml_id>1005</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/d75/d7559fc761a9940749de4abe48a0835d.jpg</uf_file>
+		</item>
+		<item>
+			<id>208</id>
+			<uf_name>1006 Темный орех</uf_name>
+			<uf_sort>6</uf_sort>
+			<uf_xml_id>1006</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/c3f/c3f9d70010ae337c9a5b83f432def884.jpg</uf_file>
+		</item>
+		<item>
+			<id>209</id>
+			<uf_name>1007 Черный кофе</uf_name>
+			<uf_sort>7</uf_sort>
+			<uf_xml_id>1007</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/58c/58c204d469c4f72a9ec9b71ed4c9a0e1.jpg</uf_file>
+		</item>
+		<item>
+			<id>210</id>
+			<uf_name>1008 Мокрый асфальт</uf_name>
+			<uf_sort>8</uf_sort>
+			<uf_xml_id>1008</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/aeb/aeba78468458c0ae9b2158533f35e512.jpg</uf_file>
+		</item>
+		<item>
+			<id>211</id>
+			<uf_name>1009 Биофа</uf_name>
+			<uf_sort>9</uf_sort>
+			<uf_xml_id>1009</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/46e/46e0a8ffa3acddc6c8f9e86320142e16.jpg</uf_file>
+		</item>
+		<item>
+			<id>212</id>
+			<uf_name>1010 Махагон</uf_name>
+			<uf_sort>10</uf_sort>
+			<uf_xml_id>1010</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/4f8/4f81186ecaebf54614feb7f43af27553.jpg</uf_file>
+		</item>
+		<item>
+			<id>213</id>
+			<uf_name>1011 Тимос</uf_name>
+			<uf_sort>11</uf_sort>
+			<uf_xml_id>1011</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/f35/f353205961ffc7905f1baae3d1715d5e.jpg</uf_file>
+		</item>
+		<item>
+			<id>214</id>
+			<uf_name>1012 Амарант</uf_name>
+			<uf_sort>12</uf_sort>
+			<uf_xml_id>1012</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/9d3/9d325cf638b9e4af57176b7b227364fd.jpg</uf_file>
+		</item>
+		<item>
+			<id>215</id>
+			<uf_name>1013 Жемчужно белый</uf_name>
+			<uf_sort>13</uf_sort>
+			<uf_xml_id>1013</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/586/586425fcc54f0713dd103b1415d731cb.jpg</uf_file>
+		</item>
+		<item>
+			<id>216</id>
+			<uf_name>1014 Солома</uf_name>
+			<uf_sort>14</uf_sort>
+			<uf_xml_id>1014</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/2d4/2d4178089c87665030b58abbd538b641.jpg</uf_file>
+		</item>
+		<item>
+			<id>217</id>
+			<uf_name>1015 Песчаный замок</uf_name>
+			<uf_sort>15</uf_sort>
+			<uf_xml_id>1015</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/ce8/ce84f0a295e9f05dcb51f8704cce8327.jpg</uf_file>
+		</item>
+		<item>
+			<id>218</id>
+			<uf_name>1016 Бариста</uf_name>
+			<uf_sort>16</uf_sort>
+			<uf_xml_id>1016</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/e11/e1120293d04b29b1808da8dd8e10c498.jpg</uf_file>
+		</item>
+		<item>
+			<id>219</id>
+			<uf_name>1017 Дуб светлый</uf_name>
+			<uf_sort>17</uf_sort>
+			<uf_xml_id>1017</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/4b3/4b3f1595533367615fb145436717a1e8.jpg</uf_file>
+		</item>
+		<item>
+			<id>220</id>
+			<uf_name>1018 Шалфей</uf_name>
+			<uf_sort>18</uf_sort>
+			<uf_xml_id>1018</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/151/151fc18b8e138b361872b11b85d15c15.jpg</uf_file>
+		</item>
+		<item>
+			<id>221</id>
+			<uf_name>1019 Морской бриз</uf_name>
+			<uf_sort>19</uf_sort>
+			<uf_xml_id>1019</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/4fa/4faa4f56bd2a6c4927995474a484b306.jpg</uf_file>
+		</item>
+		<item>
+			<id>222</id>
+			<uf_name>4301 Лиственница</uf_name>
+			<uf_sort>4301</uf_sort>
+			<uf_xml_id>4301</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>1</uf_def>
+			<uf_file>uf/b9c/b9c57b9fbc50664fe758d618bdb57a8e.jpg</uf_file>
+		</item>
+		<item>
+			<id>223</id>
+			<uf_name>4302 Золотистый тик</uf_name>
+			<uf_sort>4302</uf_sort>
+			<uf_xml_id>4302</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/2d6/2d695e1a06e20da1316863ec9d4fd95a.jpg</uf_file>
+		</item>
+		<item>
+			<id>224</id>
+			<uf_name>4303 Каштан</uf_name>
+			<uf_sort>4303</uf_sort>
+			<uf_xml_id>4303</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/976/9769a2844a7d7637b35a9caaaa2335c5.jpg</uf_file>
+		</item>
+		<item>
+			<id>225</id>
+			<uf_name>4304 Вишня</uf_name>
+			<uf_sort>4304</uf_sort>
+			<uf_xml_id>4304</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/490/490c5f68401c0e8de7c36d0c933a72f8.jpg</uf_file>
+		</item>
+		<item>
+			<id>226</id>
+			<uf_name>4305 Сепия</uf_name>
+			<uf_sort>4305</uf_sort>
+			<uf_xml_id>4305</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/104/10457437e572a9e6db79447e58df3345.jpg</uf_file>
+		</item>
+		<item>
+			<id>227</id>
+			<uf_name>4306 Бордовый</uf_name>
+			<uf_sort>4306</uf_sort>
+			<uf_xml_id>4306</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/1cc/1cc1a67b0090cb71860b7bc3ae17286e.jpg</uf_file>
+		</item>
+		<item>
+			<id>228</id>
+			<uf_name>4307 Коньяк</uf_name>
+			<uf_sort>4307</uf_sort>
+			<uf_xml_id>4307</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/601/601f8975f1123a2f930ad63a516527c4.jpg</uf_file>
+		</item>
+		<item>
+			<id>229</id>
+			<uf_name>4308 Оливковый</uf_name>
+			<uf_sort>4308</uf_sort>
+			<uf_xml_id>4308</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/a0f/a0f995ae4b1ec0a916fdb2970bf060b7.jpg</uf_file>
+		</item>
+		<item>
+			<id>230</id>
+			<uf_name>4309 Шоколадно-коричневый</uf_name>
+			<uf_sort>4309</uf_sort>
+			<uf_xml_id>4309</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/b8a/b8aa5751fbe5de35ef3c43299cd814c4.jpg</uf_file>
+		</item>
+		<item>
+			<id>231</id>
+			<uf_name>4310 Муссон</uf_name>
+			<uf_sort>4310</uf_sort>
+			<uf_xml_id>4310</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/d60/d60c366c6c094e1073dfba129c82699e.jpg</uf_file>
+		</item>
+		<item>
+			<id>232</id>
+			<uf_name>4311 Красное дерево</uf_name>
+			<uf_sort>4311</uf_sort>
+			<uf_xml_id>4311</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/6fe/6fe7a6732cd60f908f0e26c1a4f5f6d0.jpg</uf_file>
+		</item>
+		<item>
+			<id>233</id>
+			<uf_name>4312 Садова</uf_name>
+			<uf_sort>4312</uf_sort>
+			<uf_xml_id>4312</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/ae9/ae93c8902087d598cf81102b306e5097.jpg</uf_file>
+		</item>
+		<item>
+			<id>234</id>
+			<uf_name>4313 Сливки</uf_name>
+			<uf_sort>4313</uf_sort>
+			<uf_xml_id>4313</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/cb7/cb752a220d5e283a33d306b778c27363.jpg</uf_file>
+		</item>
+		<item>
+			<id>235</id>
+			<uf_name>4314 Айсберг</uf_name>
+			<uf_sort>4314</uf_sort>
+			<uf_xml_id>4314</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/768/768ed2d2decdc230730b1526b284c26a.jpg</uf_file>
+		</item>
+		<item>
+			<id>236</id>
+			<uf_name>4315 Пепельно-серый</uf_name>
+			<uf_sort>4315</uf_sort>
+			<uf_xml_id>4315</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/fd7/fd73fc57b9888375ee3a1962d6c79f25.jpg</uf_file>
+		</item>
+		<item>
+			<id>237</id>
+			<uf_name>4316 Морская галька</uf_name>
+			<uf_sort>4316</uf_sort>
+			<uf_xml_id>4316</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/af4/af4cf78084a57ae3a7bf3026c3267438.jpg</uf_file>
+		</item>
+		<item>
+			<id>238</id>
+			<uf_name>4317 Итальянская пиния</uf_name>
+			<uf_sort>4317</uf_sort>
+			<uf_xml_id>4317</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/db8/db8c952dd6638f0719590ea0f8062af3.jpg</uf_file>
+		</item>
+		<item>
+			<id>239</id>
+			<uf_name>4318 Ироко</uf_name>
+			<uf_sort>4318</uf_sort>
+			<uf_xml_id>4318</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/8a2/8a26b1cef4822c76ef9942f666b5b187.jpg</uf_file>
+		</item>
+		<item>
+			<id>240</id>
+			<uf_name>4319 Кофе</uf_name>
+			<uf_sort>4319</uf_sort>
+			<uf_xml_id>4319</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/013/01342283befc138b0ad677b05c01380e.jpg</uf_file>
+		</item>
+		<item>
+			<id>241</id>
+			<uf_name>4320 Палисандр</uf_name>
+			<uf_sort>4320</uf_sort>
+			<uf_xml_id>4320</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/6eb/6ebcfdea04ac6ee5932a8a36de942b43.jpg</uf_file>
+		</item>
+		<item>
+			<id>242</id>
+			<uf_name>4321 Ольха</uf_name>
+			<uf_sort>4321</uf_sort>
+			<uf_xml_id>4321</uf_xml_id>
+			<uf_link />
+			<uf_description />
+			<uf_full_description />
+			<uf_def>0</uf_def>
+			<uf_file>uf/8fd/8fd8a4286e4d2c409a7a88a4f823f6dd.jpg</uf_file>
+		</item>
+	</items>
+</hiblock>

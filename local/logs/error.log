@@ -1,0 +1,9 @@
+[02-May-2023 17:42:58 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'va32' (T_STRING) in /home/c/ce06532/shopbiofaru/public_html/i.php on line 3
+[29-May-2023 15:42:11 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function prinr_r() in /home/c/ce06532/shopbiofaru/public_html/i.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/c/ce06532/shopbiofaru/public_html/i.php on line 5
+[12-Sep-2023 16:37:31 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'CHTTP' not found in /home/c/ce06532/shopbiofaru/public_html/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/c/ce06532/shopbiofaru/public_html/404.php on line 6

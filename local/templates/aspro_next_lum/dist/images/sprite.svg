@@ -1,0 +1,34 @@
+ <svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="sort-icon">
+    <path d="M13 19H19V18H13V19ZM13 14.6666H19V13.6666H13V14.6666ZM13 10.3333H19V9.33327H13V10.3333ZM13 4.99997V5.99997H19V4.99997H13ZM9.34618 7.69257L10.0532 6.98557L7.37498 4.30737L4.69678 6.98557L5.40378 7.69257L6.87498 6.22137V17.7786L5.40378 16.3074L4.69678 17.0144L7.37498 19.6926L10.0532 17.0144L9.34618 16.3074L7.87498 17.7786V6.22137L9.34618 7.69257Z" fill="currentColor"></path>
+  </symbol>
+<symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16" id="filter-line-icon">
+    <path d="M0 0.5V1.57143H20V0.5H0ZM0 8.53571H20V7.46429H0V8.53571ZM0 15.5H20V14.4286H0V15.5Z" fill="currentColor"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" id="filter-block-icon">
+    <path d="M0 8.88889H8.88889V0H0V8.88889ZM1.11111 1.11111H7.77778V7.77778H1.11111V1.11111ZM11.1111 0V8.88889H20V0H11.1111ZM18.8889 7.77778H12.2222V1.11111H18.8889V7.77778ZM0 20H8.88889V11.1111H0V20ZM1.11111 12.2222H7.77778V18.8889H1.11111V12.2222ZM11.1111 20H20V11.1111H11.1111V20ZM12.2222 12.2222H18.8889V18.8889H12.2222V12.2222Z" fill="currentColor"></path>
+  </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" id="trash-icon">
+    <path d="M6.66702 18.1C6.66527 18.3365 6.75479 18.5641 6.91594 18.7328C7.0771 18.9015 7.29673 18.9976 7.52667 19H17.474C17.704 18.9976 17.9236 18.9015 18.0848 18.7328C18.2459 18.5641 18.3354 18.3365 18.3337 18.1V6.09998H6.66702V18.1ZM7.83368 7.29998H17.167V17.8H7.83368V7.29998Z" fill="currentColor"></path>
+    <path d="M10.4582 8.5H9.2915V16H10.4582V8.5Z" fill="currentColor"></path>
+    <path d="M13.0837 8.5H11.917V16H13.0837V8.5Z" fill="currentColor"></path>
+    <path d="M15.7082 8.5H14.5415V16H15.7082V8.5Z" fill="currentColor"></path>
+    <path d="M15.125 3.7V1.9C15.125 1.39533 14.7791 1 14.3375 1H10.6625C10.2209 1 9.875 1.39533 9.875 1.9V3.7H5.5V4.9H19.5V3.7H15.125ZM11.0417 2.2H13.9583V3.7H11.0417V2.2Z" fill="currentColor"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 32" id="arrow-btn">
+    <mask id="mask0_312_1583" maskUnits="userSpaceOnUse" x="0" y="0" width="33" height="32">
+      <rect x="0.530273" width="32" height="32" fill="#fff"></rect>
+    </mask>
+    <g mask="url(#mask0_312_1583)">
+      <path d="M19.525 21.9383L18.2863 20.7256L22.1453 16.8666H7.59668V15.1333H22.1453L18.2863 11.2743L19.525 10.0616L25.4633 16L19.525 21.9383Z" fill="currentColor"></path>
+    </g>
+  </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="filter-solid">
+    <path d="M3.9 54.9C10.5 40.9 24.5 32 40 32l432 0c15.5 0 29.5 8.9 36.1 22.9s4.6 30.5-5.2 42.5L320 320.9 320 448c0 12.1-6.8 23.2-17.7 28.6s-23.8 4.3-33.5-3l-64-48c-8.1-6-12.8-15.5-12.8-25.6l0-79.1L9 97.3C-.7 85.4-2.8 68.8 3.9 54.9z" fill="currentColor"></path>
+  </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" id="xmark-solid">
+    <path d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"></path>
+  </symbol>
+</svg>
+ 
+ 
